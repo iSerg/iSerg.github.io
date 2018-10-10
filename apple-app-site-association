@@ -1,11 +1,9 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "458R6KUD59.com.owlylabs.dukandiet",
-        "paths": [ "*" ]
-      }
-    ]
-  }
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "458R6KUD59.com.owlylabs.dukandiet",
+            "paths": ["*"]
+        }]
+    }
 }
